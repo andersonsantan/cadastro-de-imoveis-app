@@ -1,5 +1,5 @@
 # cadastro-de-imoveis-app
-Projeto realizado no treinamento da Softteck realizado pela KaSolutions.
+Projeto realizado no treinamento da Softteck ministrado pela KaSolutions.
 ## Introdução
 Este projeto foi implementado com JSP, ToMcat e Servlets. Na implementação foi codificado uma controller de forma manual, o instrutor discorreu todo fundamento de uma estrutura MVC deixando bem claro como roda tudo por baixo dos panos bem como boas práticas de programação, o objetivo do projeto foi introduzir o Java Web para o entendimento base de como funciona o Spring MVC e a evolução da tecnologia até o momento.
 ## Conceitos Aprendidos
